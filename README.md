@@ -1,6 +1,10 @@
-| Open Science in the Digital Era - data, research and open access publishing | 
-| Research seminar at Aleksanteri Institute Graduate School,  Helsinki |
-| September 20, 2013 |
+
+
+>Open Science in the Digital Era - data, research and open access publishing
+
+>Research seminar at Aleksanteri Institute Graduate School,  Helsinki
+
+>September 20, 2013
 
 # Programme
 <!-- - - - - - - - - - - - - - - - - - - -->
