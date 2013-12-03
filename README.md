@@ -25,5 +25,3 @@ This project started as a result of seminar we organised at the Aleksanteri inst
 
 You can install the required software enviroment following instruction from [here](https://github.com/digieast/paperx)
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/D_pzz7Cjw8k" frameborder="0" allowfullscreen></iframe>
-
