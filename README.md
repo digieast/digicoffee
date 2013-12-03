@@ -25,3 +25,4 @@ This project started as a result of seminar we organised at the Aleksanteri inst
 
 You can install the required software enviroment following instruction from [here](https://github.com/digieast/paperx)
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://www.youtube.com/watch?v=D_pzz7Cjw8k)
