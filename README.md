@@ -19,7 +19,7 @@ The content has been duplicated as simple markdown files here in the version con
 - [publishing.md](publishing.md)
 - [socialmedia.md](socialmedia.md)
 - [teaching.md](teaching.md)
-- [.md](.md)
+- [stuff.md](stuff.md)
 
 This project started as a result of seminar we organised at the Aleksanteri institute in September 2013. Material of the seminar is in here: [markuskainu.fi/workshop/openscience2013/](http://markuskainu.fi/workshop/openscience2013/) and [here you can browse the introductory slides](http://markuskainu.fi/workshop/openscience2013/openscience2013_slides.html#/)
 
