@@ -12,7 +12,8 @@ The content has been duplicated as simple markdown files here in the version con
 
 - [meetings.md](meetings.md)
     - [meeting1.md](meeting1.md)
-    - [meeting1.md](meeting2.md)
+    - [meeting2.md](meeting2.md)
+    - [meeting3.md](meeting3.md)
 - [data.md](data.md)
 - [methods_tools.md](methods_tools.md)
 - [openscience.md](openscience.md)
@@ -23,6 +24,6 @@ The content has been duplicated as simple markdown files here in the version con
 
 This project started as a result of seminar we organised at the Aleksanteri institute in September 2013. Material of the seminar is in here: [markuskainu.fi/workshop/openscience2013/](http://markuskainu.fi/workshop/openscience2013/) and [here you can browse the introductory slides](http://markuskainu.fi/workshop/openscience2013/openscience2013_slides.html#/)
 
-You can install the required software enviroment following instruction from [here](https://github.com/digieast/paperx)
+# Apps for writint **text**
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://www.youtube.com/watch?v=D_pzz7Cjw8k)
+And of course, you need an application for writing text. **Notepad** is good, but for windows I recommend [Markdown Pad](http://markdownpad.com/) and for OS X maybe [Mou](http://mouapp.com/), [Clockwork Engine](http://clockworkengine.com/lightpaper-mac/) or perhaps [TEXTS](http://www.texts.io/). Also, [Sublime Text](http://www.sublimetext.com/) is an excellent editor of all OS's.
