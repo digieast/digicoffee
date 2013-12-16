@@ -27,3 +27,7 @@ This project started as a result of seminar we organised at the Aleksanteri inst
 # Apps for writint **text**
 
 And of course, you need an application for writing text. **Notepad** is good, but for windows I recommend [Markdown Pad](http://markdownpad.com/) and for OS X maybe [Mou](http://mouapp.com/), [Clockwork Engine](http://clockworkengine.com/lightpaper-mac/) or perhaps [TEXTS](http://www.texts.io/). Also, [Sublime Text](http://www.sublimetext.com/) is an excellent editor of all OS's.
+
+# Just another title in here
+
+Trying out pull requests functions
