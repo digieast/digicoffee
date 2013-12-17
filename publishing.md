@@ -5,6 +5,14 @@
 - [Blog post: pohjoismainen-open-access-seminaari-lokakuussa-helsingissa/](http://blogs.helsinki.fi/digikirjasto/2013/09/11/pohjoismainen-open-access-seminaari-lokakuussa-helsingissa/)
 - [Conference program](http://www.kansalliskirjasto.fi/kirjastoala/tapahtumat/1378730933767.html)
 
+
+## Debates on open access
+
+### Simply Statistics Interview with Michael Eisen, Co-Founder of the Public Library of Science (Part 1/2)
+
+- [Interview](http://simplystatistics.org/2013/12/12/simply-statistics-interview-with-michael-eisen-co-founder-of-the-public-library-of-science/)
+- Blog post: [The impact of Randy Schekman abandoning Science and Nature and Cell - See more at: http://www.michaeleisen.org/blog/?p=1495#sthash.EbtVrFss.dpuf](http://www.michaeleisen.org/blog/?p=1495)
+
 ## OPEN ACCESS JOURNALS
 
 ### SOCIAL SCIENCES
