@@ -33,6 +33,7 @@
 - [a Roman forum digitalized](http://dlib.etc.ucla.edu/projects/Forum/)
 - [play with masterpieces](https://www.rijksmuseum.nl/en/rijksstudio)
 - [Analyzing and locating blog and tweet feeds](http://workshops.boundlessgeo.com/tutorial-wordmap/)
+- [Spatial History project at Stanford](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php)
 
 ### Qualitative analysis
 - [http://www.umass.edu/qdap/](http://www.umass.edu/qdap/)
