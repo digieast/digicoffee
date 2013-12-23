@@ -1,5 +1,10 @@
 # DATA
 
+## Open Russian data
+
+- [Russian Open government daily](http://www.scoop.it/t/russian-open-government-daily) - *About open government and open data in Russian. Not only about Russia but all russian speaking countries too*
+
+
 ## Yhteiskuntatieteellinen tietoarkisto
 
 - [Tutkimusaineistojen tiedeonhallinnan käsikirja](http://www.fsd.uta.fi/tiedonhallinta/)

@@ -14,6 +14,7 @@ The content has been duplicated as simple markdown files here in the version con
     - [meeting1.md](meeting1.md)
     - [meeting2.md](meeting2.md)
     - [meeting3.md](meeting3.md)
+    - [meeting4.md](meeting4.md)
 - [data.md](data.md)
 - [methods_tools.md](methods_tools.md)
 - [openscience.md](openscience.md)
