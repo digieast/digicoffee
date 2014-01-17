@@ -2,7 +2,7 @@
 
 We shall discuss and try out these technologies. It will be *show and tell* type of event so please bring your laptop, install git and create account for github. If you want to play around. 
 
-[It will be something like this](http://youtu.be/qT90jZP58jM)
+[It will be something like this](http://youtu.be/qT90jZP58jM) (You should replace the `code` with `text`, though they are not really different. Just characters.)
 
 ## git
 
