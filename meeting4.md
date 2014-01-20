@@ -4,6 +4,8 @@ We shall discuss and try out these technologies. It will be *show and tell* type
 
 [It will be something like this](http://youtu.be/qT90jZP58jM) (You should replace the `code` with `text`, though they are not really different. Just characters.)
 
+# General informations
+
 ## git
 
 >Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
@@ -28,3 +30,11 @@ We shall discuss and try out these technologies. It will be *show and tell* type
 - [for windows](http://windows.github.com)
 - [for mac](http://mac.github.com)
 
+
+# Learning/teching materials
+
+
+- [Github training materials - Open source training](http://training.github.com/materials/
+    - [outline](http://training.github.com/materials/outlines/github-foundations.html)
+    - [slides](http://training.github.com/materials/slides/github-foundations.html#/)
+    - [cheat sheet](http://training.github.com/materials/cheatsheets/github-foundations.html)
