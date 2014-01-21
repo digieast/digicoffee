@@ -5,10 +5,14 @@ We shall discuss and try out version/revision controls and git+github technologi
 
 [It will be something like this](http://youtu.be/qT90jZP58jM) (You should replace the `code` with `text`, though they are not really different. Just characters.)
 
+
+Why version control?
+==============
+
 ![](http://www.phdcomics.com/comics/archive/phd101212s.gif)
 
 
-Tech
+The Tech
 =============
 
 
