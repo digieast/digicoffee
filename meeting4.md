@@ -42,3 +42,11 @@ We shall discuss and try out version/revision controls and git+github technologi
     - [outline](http://training.github.com/materials/outlines/github-foundations.html)
     - [slides](http://training.github.com/materials/slides/github-foundations.html#/)
     - [cheat sheet](http://training.github.com/materials/cheatsheets/github-foundations.html)
+
+- [Software carpentry - TEACHING LAB SKILLS FOR SCIENTIFIC COMPUTING](http://software-carpentry.org/)
+    - [Version Control - Introduction](http://software-carpentry.org/v4/vc/intro.html)
+    - [Version Control - Basic operation](http://software-carpentry.org/v4/vc/basic.html)
+    - [Version Control - Conflict](http://software-carpentry.org/v4/vc/conflict.html)
+    - [Version Control - Rollback](http://software-carpentry.org/v4/vc/rollback.html)
+    - [Version Control - The command line](http://software-carpentry.org/v4/vc/commandline.html)
+    - [Version Control - Setup](http://software-carpentry.org/v4/vc/setup.html)
