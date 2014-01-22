@@ -22,13 +22,7 @@ The content has been duplicated as simple markdown files here in the version con
 - [socialmedia.md](socialmedia.md)
 - [teaching.md](teaching.md)
 - [stuff.md](stuff.md)
+- [git.md](git.md)
 
 This project started as a result of seminar we organised at the Aleksanteri institute in September 2013. Material of the seminar is in here: [markuskainu.fi/workshop/openscience2013/](http://markuskainu.fi/workshop/openscience2013/) and [here you can browse the introductory slides](http://markuskainu.fi/workshop/openscience2013/openscience2013_slides.html#/)
 
-# Apps for writint **text**
-
-And of course, you need an application for writing text. **Notepad** is good, but for windows I recommend [Markdown Pad](http://markdownpad.com/) and for OS X maybe [Mou](http://mouapp.com/), [Clockwork Engine](http://clockworkengine.com/lightpaper-mac/) or perhaps [TEXTS](http://www.texts.io/). Also, [Sublime Text](http://www.sublimetext.com/) is an excellent editor of all OS's.
-
-# Just another title in here
-
-Trying out pull requests functions

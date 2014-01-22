@@ -1,6 +1,26 @@
 # RESEARCH METHODS/TOOLS
 
+## Resources for writing academic papers in plain text
+
+The core idea is could be described as *source code approach to academic writing* in which you will need:
+
+1. a text editor of your liking for editing the *source code*
+    - **Notepad** is good, but for windows I recommend [Markdown Pad](http://markdownpad.com/) and 
+    - for OS X maybe [Mou](http://mouapp.com/), [Clockwork Engine](http://clockworkengine.com/lightpaper-mac/) or perhaps [TEXTS](http://www.texts.io/). 
+    - Also, [Sublime Text](http://www.sublimetext.com/) is an excellent editor of all OS's.
+    - There are several others if you google 
+2. [pandoc](http://johnmacfarlane.net/pandoc/) for converting *source code* into formats you like
+    - [syntax for pandoc markdown](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)
+    - [try pandoc online](http://johnmacfarlane.net/pandoc/try/)
+    - [install pandoc](http://johnmacfarlane.net/pandoc/installing.html)
+3. [latex](http://www.latex-project.org/) for scientific journal article pdf's
+
+I have written a compheresive blog post in Finnish here: [Markdown ja pandoc - tekstipohjaisen tieteellisen kirjoittamisen työvirta](http://markuskainu.fi/blog/tools/2013/10/15/markdown-pandoc-tieteellinen-teksti.html) and in English a this is good starting point: [A Call for Scholarly Markdown](http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/)
+
+
 ## Collaborative writing tools
+
+There are several web based solutions and more popping up all the time. 
 
 ### For sketching
 
