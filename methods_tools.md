@@ -17,6 +17,11 @@ The core idea is could be described as *source code approach to academic writing
 
 I have written a compheresive blog post in Finnish here: [Markdown ja pandoc - tekstipohjaisen tieteellisen kirjoittamisen työvirta](http://markuskainu.fi/blog/tools/2013/10/15/markdown-pandoc-tieteellinen-teksti.html) and in English a this is good starting point: [A Call for Scholarly Markdown](http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/)
 
+### Some screenshots
+
+![Sublime text 3 in Windows looks like this ](images/sublime3.png)
+
+![Gedit 3 in Ubuntu-linux (with embedded shell) looks like this ](images/gesitUbuntu.png)
 
 ## Collaborative writing tools
 
