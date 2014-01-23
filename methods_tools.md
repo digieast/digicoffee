@@ -19,9 +19,13 @@ I have written a compheresive blog post in Finnish here: [Markdown ja pandoc - t
 
 ### Some screenshots
 
-![Sublime text 3 in Windows looks like this ](images/sublime3.png)
+Sublime text 3 in Windows 
 
-![Gedit 3 in Ubuntu-linux (with embedded shell) looks like this ](images/gesitUbuntu.png)
+![](images/sublime3.png)
+
+Gedit 3 in Ubuntu-linux (with embedded shell)
+
+![](images/geditUbuntu.png)
 
 ## Collaborative writing tools
 
