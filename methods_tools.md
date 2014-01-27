@@ -15,7 +15,11 @@ The core idea is could be described as *source code approach to academic writing
     - [install pandoc](http://johnmacfarlane.net/pandoc/installing.html)
 3. [latex](http://www.latex-project.org/) for scientific journal article pdf's
 
-I have written a compheresive blog post in Finnish here: [Markdown ja pandoc - tekstipohjaisen tieteellisen kirjoittamisen työvirta](http://markuskainu.fi/blog/tools/2013/10/15/markdown-pandoc-tieteellinen-teksti.html) and in English a this is good starting point: [A Call for Scholarly Markdown](http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/)
+### General introductions
+
+- in English a this is great starting point: [WRITING AND PRESENTING SOCIAL SCIENCE](http://kieranhealy.org/resources/)
+- in Finnish from my blog: [Markdown ja pandoc - tekstipohjaisen tieteellisen kirjoittamisen työvirta](http://markuskainu.fi/blog/tools/2013/10/15/markdown-pandoc-tieteellinen-teksti.html) 
+
 
 ### Some screenshots
 
