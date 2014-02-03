@@ -1,5 +1,7 @@
 # Digicoffee
 
+Join the chat: [![Gitter chat](https://badges.gitter.im/digieast/digicoffee.png)](https://gitter.im/digieast/digicoffee)
+
 ![](http://fc06.deviantart.net/fs70/f/2013/153/2/6/digi_coffee_by_theanimalfan90-d67mr4o.png)
 
 *Informal reading and discussion group in humanities and social sciences in digital era.*
