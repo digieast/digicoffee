@@ -21,7 +21,7 @@ Great examples
 -----------------------------
 
 - [Eurostat regional data by Markus](http://markuskainu.fi/r-tutorial/eurostat/spatial.html)
-- [Stanford Spatial History Lab](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php) * - interesting visualizations, but they have most likely not used open source programs*
+- [Stanford Spatial History Lab](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php) - *Interesting visualizations, but they have most likely not used open source programs.*
 
 
 
