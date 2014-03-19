@@ -24,6 +24,19 @@ Great examples
 - [Stanford Spatial History Lab](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/index.php) - *Interesting visualizations, but they have most likely not used open source programs.*
 
 
+Spatial data
+------------------------------
+
+### Historical
+
+- [MPIDR Population History GIS Collection Data Files](http://195.37.34.109/cgi-bin/index_data_gis.plx)
+- Recent question at the Stack Exchange [Is there a source for historical shapefiles and tiles?](http://gis.stackexchange.com/questions/17137/is-there-a-source-for-historical-shapefiles-and-tiles) - check discussions
+ - [Historical GIS Research Forum](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_databases)
+ - 
+
+### Contemporary
+
+- [GADM database of Global Administrative Areas ](http://www.gadm.org/)
 
 Tools
 ------------------------------
