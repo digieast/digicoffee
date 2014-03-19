@@ -40,7 +40,10 @@ Tools
     - [some examples](http://rmaps.github.io/)
 
 
+### Mapping tool lists
 
+- [Open Source Geospatial Foundation](http://www.osgeo.org/home)
+- [Map Tools Org](http://maptools.org/)
 
 
 ### Github Native support for [.geojson files](http://en.wikipedia.org/wiki/GeoJSON)
