@@ -32,11 +32,18 @@ Spatial data
 - [MPIDR Population History GIS Collection Data Files](http://195.37.34.109/cgi-bin/index_data_gis.plx)
 - Recent question at the Stack Exchange [Is there a source for historical shapefiles and tiles?](http://gis.stackexchange.com/questions/17137/is-there-a-source-for-historical-shapefiles-and-tiles) - check discussions
  - [Historical GIS Research Forum](http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_databases)
- - http://pubs.usgs.gov/of/2001/ofr-01-104/fsucoal/html/data1.htm
+
 
 ### Contemporary
 
 - [GADM database of Global Administrative Areas ](http://www.gadm.org/)
+
+
+### Russia & Soviet Union
+
+- [FSU Coal Spatial Data Directory](http://pubs.usgs.gov/of/2001/ofr-01-104/fsucoal/html/data1.htm) - Soviet Union borders, roads, railways
+- [Land Resources of Russia](http://webarchive.iiasa.ac.at/Research/FOR/russia_cd/download.htm#download)
+
 
 Tools
 ------------------------------
@@ -45,7 +52,7 @@ Tools
 ### Geographics Information System
 
 - [Quantum GIS](http://www.qgis.org/en/site/) - *A Free and Open Source Geographic Information System*
-
+- [GEOda](http://geodacenter.asu.edu/) - *Arizona State University - GeoDa Center for Geospatial Analysis and Computation*
 
 ### R project
 
@@ -65,8 +72,6 @@ Tools
 - [There's a map for that](https://github.com/blog/1528-there-s-a-map-for-that)
 - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
     
-
-
 
 ### Visualisation
 
